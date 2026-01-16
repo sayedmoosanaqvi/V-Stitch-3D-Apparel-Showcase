@@ -1,4 +1,5 @@
 V-Stitch is a high-fidelity 3D interactive apparel framework built to solve the "static image" limitation of modern e-commerce. By integrating a cloud-native asset pipeline, the application allows users to interact with detailed 3D models (designed in Blender) with 60FPS performance directly in the web browser.
+![V-Stitch 3D Demo](demo.gif)
 
 Technical Challenges & Solutions
 This project represents a journey through complex full-stack problem-solving. Below are the key engineering hurdles I overcame:
